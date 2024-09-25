@@ -2,7 +2,9 @@
 - 👀 I’m interested in sport, especially bodybuilding and swimming
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on AI project
-- 📫 How to reach me: Facebook: https://www.facebook.com/quangnhathoang.vo.3
+- 📫 How to reach me:
+    Facebook: https://www.facebook.com/quangnhathoang.vo.3
+    Email: vqnhoang97tn@gmail.com
 - ✨ Character: Humorous, quite perfectionist, hospitable, sociable.
 - ⚡ Strength: time management, discipline
 
