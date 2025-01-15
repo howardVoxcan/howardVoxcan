@@ -7,6 +7,7 @@
 - **Hobbies**: Sports
 - **Personality Traits**: Humorous, hospitable
 - **Languages**: Vietnamese (native), English (advanced), Japanese (beginner)
+- **Proficient in**: C, C++, Python, HTML, CSS, Sass
 - **Contact**:
     - **Email Address**: [vqnhoang97tn@gmail.com](mailto:vqnhoang97tn@gmail.com)
     - **GitHub Profile**: [howardVoxcan](https://github.com/howardVoxcan)
