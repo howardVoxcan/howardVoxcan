@@ -8,7 +8,7 @@
 - **Personality Traits**: Humorous, hospitable
 - **Languages**: Vietnamese (native), English (advanced), Japanese (beginner)
 - **Contact**:
-    - **Email Address**: [22520482@gm.uit.edu.vn](mailto:22520482@gm.uit.edu.vn)
+    - **Email Address**: [22520482@gm.uit.edu.vn](mailto:vqnhoang97tn@gmail.com)
     - **GitHub Profile**: [howardVoxcan](https://github.com/howardVoxcan)
     - **Facebook**: [Võ Quang Nhật Hoàng](https://www.facebook.com/quangnhathoang.vo.3/)
     - **Phone Number**: 0793512912
