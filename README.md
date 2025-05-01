@@ -1,7 +1,7 @@
 - **Gender**: Male
 - **Date of Birth**: September 5, 2004 (20 years old)
 - **University**: University of Information Technology
-- **Major**: Artificial Intelligence and Web Development
+- **Major**: Artificial Intelligence (interested in Natural Language Processing) and Web Development
 - **Expected Graduation Year**: 2026
 - **Planned Internship Period**: July 2025
 - **Hobbies**: Sports
