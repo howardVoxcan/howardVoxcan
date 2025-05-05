@@ -1,15 +1,50 @@
-- **Gender**: Male
-- **Date of Birth**: September 5, 2004 (20 years old)
-- **University**: University of Information Technology
-- **Major**: Artificial Intelligence (interested in Natural Language Processing) and Web Development
-- **Expected Graduation Year**: 2026
-- **Planned Internship Period**: July 2025
-- **Hobbies**: Sports
-- **Personality Traits**: Humorous, hospitable
-- **Languages**: Vietnamese (native), English (advanced), Japanese (beginner)
-- **Proficient in**: C, C++, Python, HTML, CSS, Sass
-- **Contact**:
-    - **Email Address**: [vqnhoang97tn@gmail.com](mailto:vqnhoang97tn@gmail.com)
-    - **GitHub Profile**: [howardVoxcan](https://github.com/howardVoxcan)
-    - **Facebook**: [Võ Quang Nhật Hoàng](https://www.facebook.com/quangnhathoang.vo.3/)
-    - **Phone Number**: 0793512912
+<h1 align="center">Hi there, I'm Nhật Hoàng 👋</h1>
+
+<p align="center">
+  🎓 AI Student at <strong>University of Information Technology</strong>  
+  <br/>
+  💻 Passionate about <strong>Natural Language Processing</strong> and <strong>Web Development</strong>
+</p>
+
+---
+
+### 👤 About Me
+
+- **🎂 Gender / DOB**: Male / September 5, 2004 (20 years old)  
+- **🏫 University**: University of Information Technology  
+- **📚 Major**: Artificial Intelligence  
+- **🎓 Graduation Year**: 2026  
+- **📅 Internship Availability**: July 2025  
+- **🎯 Interests**: NLP, Web Development  
+- **⚽ Hobbies**: Sports  
+- **🧠 Personality**: Humorous, Hospitable  
+
+---
+
+### 🌐 Languages
+
+- **Vietnamese**: Native  
+- **English**: Advanced  
+- **Japanese**: Beginner  
+
+---
+
+### 💻 Skills
+
+- **Programming**: C, C++, Python  
+- **Web Technologies**: HTML, CSS, Sass  
+
+---
+
+### 📬 Contact Me
+
+- **📧 Email**: [vqnhoang97tn@gmail.com](mailto:vqnhoang97tn@gmail.com)  
+- **🐙 GitHub**: [howardVoxcan](https://github.com/howardVoxcan)  
+- **📘 Facebook**: [Võ Quang Nhật Hoàng](https://www.facebook.com/quangnhathoang.vo.3/)  
+- **📞 Phone**: 0793512912  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=howardVoxcan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
