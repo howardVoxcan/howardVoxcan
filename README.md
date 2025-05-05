@@ -15,8 +15,8 @@
 - **📚 Major**: Artificial Intelligence  
 - **🎓 Graduation Year**: 2026  
 - **📅 Internship Availability**: July 2025  
-- **🎯 Interests**: NLP, Web Development  
-- **⚽ Hobbies**: Sports  
+- **🎯 Interests**: AI, ML, DL, Web Development (Especially NLP)  
+- **⚽ Hobbies**: Sports (Especially body building)  
 - **🧠 Personality**: Humorous, Hospitable  
 
 ---
