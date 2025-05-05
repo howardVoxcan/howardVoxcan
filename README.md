@@ -93,7 +93,7 @@
 ---
 
 ### 🧰 Tech Stack
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardVoxcan&layout=compact&theme=tokyonight&hide=c" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardVoxcan&layout=compact&theme=tokyonight&hide=c" />
 
 ---
 
