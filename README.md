@@ -96,12 +96,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardVoxcan&layout=compact&theme=tokyonight&hide=c" />
 </p>
-
-
----
-
-### 📊 GitHub Stats & Activity
-<img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=tokyonight" />
-
-
-
