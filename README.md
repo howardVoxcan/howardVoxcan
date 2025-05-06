@@ -2,8 +2,6 @@
 
 <p align="center">
   🎓 AI Student at <strong>University of Information Technology</strong>  
-  <br/>
-  💻 Passionate about <strong>Natural Language Processing</strong> and <strong>Web Development</strong>
 </p>
 
 ---
@@ -12,7 +10,7 @@
 
 - **🎂 Gender / DOB**: Male / September 5, 2004 (20 years old)  
 - **🏫 University**: University of Information Technology  
-- **📚 Major**: Artificial Intelligence  
+- **📚 Major**: Information Technology 
 - **🎓 Graduation Year**: 2026  
 - **📅 Internship Availability**: July 2025  
 - **🎯 Interests**: AI, ML, DL, Web Development (Especially NLP)  
