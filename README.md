@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nhật Hoàng 👋</h1>
 
 <p align="center">
-  🎓 AI Student at <strong>University of Information Technology</strong>  
+  🎓 Student at <strong>University of Information Technology</strong>  
 </p>
 
 ---
