@@ -101,7 +101,4 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=howardVoxcan&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=tokyonight" />
