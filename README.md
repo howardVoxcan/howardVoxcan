@@ -51,4 +51,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=howardVoxcan)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://d3frb2mbny706b.cloudfront.net/howardVoxcan" width="600">
+</p>
