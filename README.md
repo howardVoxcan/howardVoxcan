@@ -54,3 +54,5 @@
 <p align="center">
   <img src="https://d3frb2mbny706b.cloudfront.net/howardVoxcan" width="600">
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=catppuccin-macchiato" alt="GitHub Streak" /></a>
