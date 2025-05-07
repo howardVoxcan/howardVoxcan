@@ -95,6 +95,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardVoxcan&layout=compact&theme=tokyonight&hide=c" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=tokyonight" alt="GitHub Streak" /></a>
