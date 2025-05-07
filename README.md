@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Nhật Hoàng 👋</h1>
 
 <p align="center">
-  🎓 AI Student at <strong>University of Information Technology</strong>  
-  <br/>
-  💻 Passionate about <strong>Natural Language Processing</strong> and <strong>Web Development</strong>
+  🎓 Student at <strong>University of Information Technology</strong>
 </p>
 
 ---
@@ -54,5 +52,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=howardVoxcan&theme=dracula" alt="GitHub Streak" /></a>
 </p>
