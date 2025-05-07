@@ -93,4 +93,5 @@
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardVoxcan&layout=compact&theme=tokyonight&hide=c" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=howardVoxcan&theme=tokyonight)](https://git.io/streak-stats)
 </p>
