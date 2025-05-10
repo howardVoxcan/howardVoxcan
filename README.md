@@ -51,7 +51,7 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=howardVoxcan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,django,sklearn,bootstrap,ubuntu,mssql,cassandra,sqlite,git,vscode" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,django,sklearn,bootstrap,ubuntu,mysql,cassandra,sqlite,git,vscode" />
     </a>
   </p>
 </div>
