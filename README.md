@@ -56,9 +56,9 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,django,sklearn" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,git" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ubuntu,mysql,cassandra,sqlite,git,vscode" />
+      <img src="https://skillicons.dev/icons?i=django,sklearn,ubuntu,mysql,cassandra,sqlite,tailwind,bootstrap" />
     </a>
   </p>
 </div>
