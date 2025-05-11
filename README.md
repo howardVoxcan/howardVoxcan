@@ -61,6 +61,7 @@
     <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=howardVoxcan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </span>
   <span>
+    <div>  
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
       <br/>
@@ -68,6 +69,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
     </a>
+    </div>
   </span>
 </p>
 
