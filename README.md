@@ -57,19 +57,20 @@
 </div>
 
 <p align="center">
-  <span>
+  <span style="display: inline-block;">
     <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=howardVoxcan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </span>
-  <span style="display: inline-block; margin-left: 20px;">
+  <span style="display: inline-block; vertical-align: top; margin-left: 20px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
+      <div>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
+        <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
+        <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
+      </div>
     </a>
   </span>
 </p>
+
 
 
 
