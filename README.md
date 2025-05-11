@@ -59,7 +59,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=css,gitdjango,sklearn,ubuntu" />
+      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
       <br/>
       <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
     <img 
