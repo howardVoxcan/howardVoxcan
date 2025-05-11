@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm Nhật Hoàng 👋</h1>
-
-<p align="center">
-  🎓 Student at <strong>University of Information Technology</strong>
-</p>
-
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vo+Quang+Nhat+Hoang!;">
+</h1>
 
 ### 👤 About Me
 
@@ -35,11 +31,20 @@
 ---
 
 ### 📬 Contact Me
-
-- **📧 Email**: [vqnhoang97tn@gmail.com](mailto:vqnhoang97tn@gmail.com)  
-- **🐙 GitHub**: [howardVoxcan](https://github.com/howardVoxcan)  
-- **📘 Facebook**: [Võ Quang Nhật Hoàng](https://www.facebook.com/quangnhathoang.vo.3/)  
-- **📞 Phone**: 0793512912  
+<div align="center"> 
+  <a href="mailto:vqnhoang97tn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/quangnhathoang.vo.3/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hoangvoquangnhat/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-v%C3%B5-quang-nh%E1%BA%ADt-633b36346/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
