@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Vo+Quang+Nhat+Hoang!;A+passionate+Fullstack+Developer+from+Vietnam;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Vo+Quang+Nhat+Hoang!;A+Fullstack+Developer+from+Vietnam;">
 </h1>
 
 ### 👤 About Me
