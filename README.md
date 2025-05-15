@@ -12,8 +12,6 @@
 
 💬 Ask me about **Django and NLP**
 
-📫 How to reach me **vqnhoang97tn@gmail.com**
-
 ⚡ Fun fact **I love to play sports and I think I am humorous and hospitable**
 
 ---
