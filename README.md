@@ -50,17 +50,19 @@
 
 ### 🧰 Tech Stack
 <div align="center">
-  <p align="center">
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
-      <br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" /><br/>
+      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" /><br/>
       <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
-    <img 
     </a>
-  </p>
+  </div>
+
+  <div style="display: inline-block; vertical-align: top;">
+    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=howardVoxcan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
 </div>
+
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=howardVoxcan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=howardVoxcan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
