@@ -50,7 +50,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,postgres,bootstrap" />
     <img 
     </a>
   </p>
