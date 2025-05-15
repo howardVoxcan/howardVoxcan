@@ -4,17 +4,17 @@
 
 ### 👤 About Me
 
-- 🔭 I’m currently working on [Tourist Guide Project](https://github.com/howardVoxcan/Tourist_Guide)
+🔭 I’m currently working on [Tourist Guide Project](https://github.com/howardVoxcan/Tourist_Guide)
 
-- 🌱 I’m currently learning **Tensorflow and PyTorch**
+🌱 I’m currently learning **Tensorflow and PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/howardVoxcan](https://github.com/howardVoxcan)
+👨‍💻 All of my projects are available at [https://github.com/howardVoxcan](https://github.com/howardVoxcan?tab=repositories)
 
-- 💬 Ask me about **Django and NLP**
+💬 Ask me about **Django and NLP**
 
-- 📫 How to reach me **vqnhoang97tn@gmail.com**
+📫 How to reach me **vqnhoang97tn@gmail.com**
 
-- ⚡ Fun fact **I love to play sports and I think I am humorous and hospitable**
+⚡ Fun fact **I love to play sports and I think I am humorous and hospitable**
 
 ---
 
