@@ -50,17 +50,16 @@
 
 ### 🧰 Tech Stack
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" /><br/>
-      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" /><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu" />
+      <br/>
       <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,tailwind,bootstrap" />
+    <img 
     </a>
-  </div>
-
-  <div style="display: inline-block; vertical-align: top;">
-    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=howardVoxcan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
+  </p>
 </div>
 
 <div align="center">
