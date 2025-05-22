@@ -46,11 +46,11 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=css,git,django,sklearn,ubuntu,vscode" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,flask,django,sklearn,ubuntu,vscode" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite,postgres,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,cassandra,git,bootstrap" />
     <img 
     </a>
   </p>
