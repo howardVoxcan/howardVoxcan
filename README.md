@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [Tourist Guide Project](https://github.com/howardVoxcan/Tourist_Guide)
 
-🌱 I’m currently learning **Tensorflow and PyTorch**
+🌱 I’m currently learning **Tensorflow, PyTorch and Mobile**
 
 👨‍💻 All of my projects are available at [https://github.com/howardVoxcan](https://github.com/howardVoxcan?tab=repositories)
 
