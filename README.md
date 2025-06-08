@@ -4,7 +4,7 @@
 
 ### 👤 About Me
 
-🔭 I’m currently working on [Tourist Guide Project](https://github.com/howardVoxcan/Tourist_Guide)
+🔭 I’m currently working on [Personal Management](https://github.com/howardVoxcan/Personal_Management) - a project to solve my own needs 
 
 🌱 I’m currently learning **Tensorflow, PyTorch and Mobile**
 
