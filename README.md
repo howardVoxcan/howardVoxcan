@@ -4,6 +4,8 @@
 
 ### 👤 About Me
 
+#I'm a backend developer and aspiring project manager with a passion for building systems that make life more efficient, organized, and impactful. Whether it's creating a personal finance manager, planning optimal travel routes with TSP algorithms, or integrating AI-powered chatbots, I love combining technical problem-solving with real-world use cases.
+
 🔭 I’m currently working on [Personal Management](https://github.com/howardVoxcan/Personal_Management) - a project to solve my own needs 
 
 🌱 I’m currently learning **Tensorflow, PyTorch and Mobile**
