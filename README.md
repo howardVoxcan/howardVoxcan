@@ -50,7 +50,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,flask,django,sklearn,ubuntu,vscode" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,flask,django,sklearn,ubuntu,go" />
       <br/>
       <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,cassandra,git,bootstrap" />
     <img 
