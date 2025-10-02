@@ -52,7 +52,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=tensorflow,flask,django,sklearn,ubuntu,go" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,cassandra,git,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,postman,git,bootstrap" />
     <img 
     </a>
   </p>
